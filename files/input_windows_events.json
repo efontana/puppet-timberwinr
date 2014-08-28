@@ -1,0 +1,13 @@
+﻿{
+    "TimberWinR": {
+        "Inputs": {           
+            "WindowsEvents": [
+                {
+                    "source": "System,Application",
+                    "binaryFormat": "PRINT",
+                    "resolveSIDS": true
+                }
+            ]
+        }       
+    }
+}
